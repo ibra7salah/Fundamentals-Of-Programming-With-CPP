@@ -3,7 +3,6 @@
 //غير مسموح بتكرار نفس الحل
 
 #include <iostream>
-#include <limits>
 using namespace std;
 
 int main ()
