@@ -8,6 +8,6 @@ Solving Fundamentals Of Programming With C++ Assignments from Elzero Web School
 <br>
 Course link : https://youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS
 <br>
-Assignment link: https://elzero.org/category/assignments/cpp-assignments/
+Assignments link: https://elzero.org/category/assignments/cpp-assignments/
 
 
